@@ -1,0 +1,40 @@
+{
+  "programs": [
+    {
+      "id": 1,
+      "title": "Flutter Development Bootcamp",
+      "description": "Learn Flutter from scratch and build amazing cross-platform apps. Perfect for beginners with no prior experience.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "instructor": "Sarah Johnson",
+      "price": "Free",
+      "rating": 4.8,
+      "enrolled": 1250,
+      "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400"
+    },
+    {
+      "id": 2,
+      "title": "Advanced UI/UX Design",
+      "description": "Master design principles and create stunning user interfaces that users love.",
+      "duration": "6 weeks",
+      "level": "Intermediate",
+      "instructor": "Mike Chen",
+      "price": "₹1,999",
+      "rating": 4.9,
+      "enrolled": 890,
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400"
+    },
+    {
+      "id": 3,
+      "title": "Data Science Fundamentals",
+      "description": "Learn data analysis, visualization, and machine learning basics.",
+      "duration": "10 weeks",
+      "level": "Intermediate",
+      "instructor": "Dr. Priya Sharma",
+      "price": "₹2,499",
+      "rating": 4.7,
+      "enrolled": 670,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400"
+    }
+  ]
+}
