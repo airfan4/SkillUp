@@ -20,6 +20,13 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  dependencies:
+  http: ^1.1.0  
+
+flutter:
+  assets:
+    - assets/data/ 
   assets:
     - assets/images/
 
